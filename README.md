@@ -1,2 +1,2 @@
 # SpringbootApp
-RESTful application using springboot
+RESTful application using Springboot.
