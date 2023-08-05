@@ -1,8 +1,9 @@
 package rest.util;
 
 public class Test {
-int i=0;
+
 public void print() {
-	System.out.println(i);
+	System.out.println("this is the message");
+	System.out.println("loading the final");
 }
 }
